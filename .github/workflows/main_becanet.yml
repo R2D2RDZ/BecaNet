@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'BecaNet'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4258394913D643A993AA2C60B5AFA540 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DAC887E7D484D61985EDA1F659A760D }}
           package: .
