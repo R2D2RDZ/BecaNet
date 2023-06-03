@@ -107,4 +107,4 @@ app.post("/login", async function(req, res){
 var port = process.env.PORT || 3000;
 app.listen(port, function () {
 	console.log("SERVIDOR INICIADO CORRECTAMENTE");
-});
+}); 
